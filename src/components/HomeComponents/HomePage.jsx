@@ -1,7 +1,7 @@
 import React from 'react'
 import Slider from './Slider/Slider'
 
-export default function Home() {
+export default function HomePage() {
   return (
     <>
         <Slider/>
